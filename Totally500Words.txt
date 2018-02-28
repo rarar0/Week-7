@@ -1,0 +1,24 @@
+How to be a Software Engineer
+
+I felt this slideshow covered the very basics and gave some good advice on 
+how to make yourself desirable to hire. 
+
+##The key points of this were:
+Algorithimic analysis
+Coding proficiency (in at least 1 language)
+Python proficiency
+Bash Proficiency
+SQL Proficiency
+Being able to install a server with a linux flavor of choice
+Having a basic understanding of common security vulnerabilities
+Finding productivity and not disturbing the productivity of those around you
+Lastly, being able to build a resume that displays all these skills and pass the technical interview.
+
+I feel that requiring all of these skills for an entry level position may be a bit much. As the 
+presentation states, these skills take years to build (even longer to perfect). How long are you expected to work in internships
+before you are even considered for a job with a fortune 500 company?
+
+How often is big O actually considered when creating software/scripts/code? How will big O 
+matter when quantum computing becomes the norm?
+
+Totally not 500 words
